@@ -2,6 +2,12 @@
 
 A modern Android application built with Jetpack Compose that displays a list of users from a REST API with detailed user information view.
 
+
+
+https://github.com/user-attachments/assets/334c8b64-7866-4f14-89de-f2f227cc8412
+
+
+
 ## Features
 
 - **User List Screen**: Displays a scrollable list of users fetched from API
